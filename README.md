@@ -37,6 +37,7 @@ Carrinho de compras.
 Pagamento de compras.
 
 🔗 Esses protótipos podem ser visualizados no Figma por meio do link:
-https://www.figma.com/design/3VCsAOSndWG7yE2k34h6V2/Sistemas-web---livraria?node-id=0-1&m=dev&t=ldLqj0MB1xXu9ynW-1
-https://www.figma.com/proto/3VCsAOSndWG7yE2k34h6V2/Sistemas-web---livraria?node-id=11-131&p=f&t=tOO7dGMkzpl186zZ-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A201
+https://www.figma.com/design/3VCsAOSndWG7yE2k34h6V2/Sistemas-web---livraria?node-id=0-1&m=dev&t=ldLqj0MB1xXu9ynW-
 
+**https://www.figma.com/proto/3VCsAOSndWG7yE2k34h6V2/Sistemas-web---livraria?node-id=11-131&p=f&t=tOO7dGMkzpl186zZ-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A201
+**
